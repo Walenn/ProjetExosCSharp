@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\obj\Debug\net8.0\exo_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\obj\Debug\net8.0\exo_16.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\obj\Debug\net8.0\exo_16.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\obj\Debug\net8.0\exo_16.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\bin\Debug\net8.0\exo_16.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\bin\Debug\net8.0\exo_16.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\bin\Debug\net8.0\exo_16.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\bin\Debug\net8.0\exo_16.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\bin\Debug\net8.0\exo_16.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\obj\Debug\net8.0\exo_16.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\obj\Debug\net8.0\refint\exo_16.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\obj\Debug\net8.0\exo_16.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\obj\Debug\net8.0\exo_16.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_16\obj\Debug\net8.0\ref\exo_16.dll

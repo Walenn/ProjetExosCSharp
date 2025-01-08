@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\bin\Debug\net8.0\exo-02.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\bin\Debug\net8.0\exo-02.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\bin\Debug\net8.0\exo-02.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\bin\Debug\net8.0\exo-02.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\bin\Debug\net8.0\exo-02.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\obj\Debug\net8.0\exo-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\obj\Debug\net8.0\exo-02.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\obj\Debug\net8.0\exo-02.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\obj\Debug\net8.0\exo-02.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\obj\Debug\net8.0\exo-02.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\obj\Debug\net8.0\refint\exo-02.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\obj\Debug\net8.0\exo-02.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\obj\Debug\net8.0\exo-02.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo-02\obj\Debug\net8.0\ref\exo-02.dll

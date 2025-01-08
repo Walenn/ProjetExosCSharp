@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\obj\Debug\net8.0\exo_31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\obj\Debug\net8.0\exo_31.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\obj\Debug\net8.0\exo_31.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\obj\Debug\net8.0\exo_31.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\bin\Debug\net8.0\exo_31.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\bin\Debug\net8.0\exo_31.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\bin\Debug\net8.0\exo_31.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\bin\Debug\net8.0\exo_31.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\bin\Debug\net8.0\exo_31.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\obj\Debug\net8.0\exo_31.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\obj\Debug\net8.0\refint\exo_31.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\obj\Debug\net8.0\exo_31.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\obj\Debug\net8.0\exo_31.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_31\obj\Debug\net8.0\ref\exo_31.dll

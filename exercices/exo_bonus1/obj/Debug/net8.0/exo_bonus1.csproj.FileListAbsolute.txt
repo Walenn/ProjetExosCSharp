@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\bin\Debug\net8.0\exo_bonus1.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\bin\Debug\net8.0\exo_bonus1.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\bin\Debug\net8.0\exo_bonus1.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\bin\Debug\net8.0\exo_bonus1.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\bin\Debug\net8.0\exo_bonus1.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\obj\Debug\net8.0\exo_bonus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\obj\Debug\net8.0\exo_bonus1.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\obj\Debug\net8.0\exo_bonus1.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\obj\Debug\net8.0\exo_bonus1.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\obj\Debug\net8.0\exo_bonus1.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\obj\Debug\net8.0\refint\exo_bonus1.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\obj\Debug\net8.0\exo_bonus1.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\obj\Debug\net8.0\exo_bonus1.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_bonus1\obj\Debug\net8.0\ref\exo_bonus1.dll

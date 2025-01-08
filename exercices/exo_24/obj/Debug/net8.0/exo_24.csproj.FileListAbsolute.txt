@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\obj\Debug\net8.0\exo_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\obj\Debug\net8.0\exo_24.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\obj\Debug\net8.0\exo_24.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\obj\Debug\net8.0\exo_24.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\bin\Debug\net8.0\exo_24.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\bin\Debug\net8.0\exo_24.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\bin\Debug\net8.0\exo_24.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\bin\Debug\net8.0\exo_24.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\bin\Debug\net8.0\exo_24.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\obj\Debug\net8.0\exo_24.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\obj\Debug\net8.0\refint\exo_24.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\obj\Debug\net8.0\exo_24.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\obj\Debug\net8.0\exo_24.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_24\obj\Debug\net8.0\ref\exo_24.dll
