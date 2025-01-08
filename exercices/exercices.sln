@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_30", "exo_30\exo_30.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_31", "exo_31\exo_31.csproj", "{9A3ADDFB-CAA4-454F-9ACC-ABB8FEDBED03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_32", "exo_32\exo_32.csproj", "{88072513-3860-4A57-9FF9-FCCF2F8E5652}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{9A3ADDFB-CAA4-454F-9ACC-ABB8FEDBED03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A3ADDFB-CAA4-454F-9ACC-ABB8FEDBED03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A3ADDFB-CAA4-454F-9ACC-ABB8FEDBED03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88072513-3860-4A57-9FF9-FCCF2F8E5652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88072513-3860-4A57-9FF9-FCCF2F8E5652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88072513-3860-4A57-9FF9-FCCF2F8E5652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88072513-3860-4A57-9FF9-FCCF2F8E5652}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
