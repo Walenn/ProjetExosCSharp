@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\bin\Debug\net8.0\demo-02.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\bin\Debug\net8.0\demo-02.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\bin\Debug\net8.0\demo-02.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\bin\Debug\net8.0\demo-02.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\bin\Debug\net8.0\demo-02.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\obj\Debug\net8.0\demo-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\obj\Debug\net8.0\demo-02.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\obj\Debug\net8.0\demo-02.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\obj\Debug\net8.0\demo-02.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\obj\Debug\net8.0\demo-02.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\obj\Debug\net8.0\refint\demo-02.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\obj\Debug\net8.0\demo-02.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\obj\Debug\net8.0\demo-02.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\demos\demo-02\obj\Debug\net8.0\ref\demo-02.dll
