@@ -17,3 +17,5 @@ for (int i = 0; i < tabEntiers.Length; i++)
 {
     Console.WriteLine($"Le nombre {tabEntiers[i]} est {paireOuImpair[tabEntiers[i] % 2]}.");
 }
+
+// Nouveau comm - V2

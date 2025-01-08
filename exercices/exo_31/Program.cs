@@ -13,6 +13,8 @@ int saisieUserMenu = 0;
 // *******************************************************
 
 
+
+
 do
 {
     Console.WriteLine("==== Gestion des contacts \n");
