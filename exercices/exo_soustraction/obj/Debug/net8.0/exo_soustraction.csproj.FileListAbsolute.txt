@@ -1,0 +1,15 @@
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\bin\Debug\net8.0\exo_soustraction.exe
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\bin\Debug\net8.0\exo_soustraction.deps.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\bin\Debug\net8.0\exo_soustraction.runtimeconfig.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\bin\Debug\net8.0\exo_soustraction.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\bin\Debug\net8.0\exo_soustraction.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\exo_soustraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\exo_soustraction.AssemblyInfoInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\exo_soustraction.AssemblyInfo.cs
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\exo_soustraction.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\exo_soustraction.sourcelink.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\exo_soustraction.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\refint\exo_soustraction.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\exo_soustraction.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\exo_soustraction.genruntimeconfig.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_soustraction\obj\Debug\net8.0\ref\exo_soustraction.dll

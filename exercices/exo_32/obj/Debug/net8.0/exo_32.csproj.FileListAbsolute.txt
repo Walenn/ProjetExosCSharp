@@ -13,3 +13,18 @@ C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_32\obj\
 C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_32\obj\Debug\net8.0\exo_32.pdb
 C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_32\obj\Debug\net8.0\exo_32.genruntimeconfig.cache
 C:\Users\Administrateur\Documents\DossierTravail\ProjetsC#\exercices\exo_32\obj\Debug\net8.0\ref\exo_32.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\exo_32.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\refint\exo_32.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\exo_32.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\bin\Debug\net8.0\exo_32.exe
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\bin\Debug\net8.0\exo_32.deps.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\bin\Debug\net8.0\exo_32.runtimeconfig.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\bin\Debug\net8.0\exo_32.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\bin\Debug\net8.0\exo_32.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\exo_32.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\exo_32.AssemblyInfoInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\exo_32.AssemblyInfo.cs
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\exo_32.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\exo_32.sourcelink.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\exo_32.genruntimeconfig.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_32\obj\Debug\net8.0\ref\exo_32.dll

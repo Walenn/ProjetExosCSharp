@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo-06\\exo_06.csproj": {}
+    "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo-06\\exo_06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo-06\\exo_06.csproj": {
+    "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo-06\\exo_06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo-06\\exo_06.csproj",
+        "projectUniqueName": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo-06\\exo_06.csproj",
         "projectName": "exo_06",
-        "projectPath": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo-06\\exo_06.csproj",
-        "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo-06\\obj\\",
+        "projectPath": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo-06\\exo_06.csproj",
+        "packagesPath": "C:\\Users\\Remi\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo-06\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\VisualStudio-Composants-Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Remi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

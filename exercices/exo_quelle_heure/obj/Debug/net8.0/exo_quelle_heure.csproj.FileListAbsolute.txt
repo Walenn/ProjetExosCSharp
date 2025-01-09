@@ -1,0 +1,15 @@
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\bin\Debug\net8.0\exo_quelle_heure.exe
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\bin\Debug\net8.0\exo_quelle_heure.deps.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\bin\Debug\net8.0\exo_quelle_heure.runtimeconfig.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\bin\Debug\net8.0\exo_quelle_heure.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\bin\Debug\net8.0\exo_quelle_heure.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\exo_quelle_heure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\exo_quelle_heure.AssemblyInfoInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\exo_quelle_heure.AssemblyInfo.cs
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\exo_quelle_heure.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\exo_quelle_heure.sourcelink.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\exo_quelle_heure.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\refint\exo_quelle_heure.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\exo_quelle_heure.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\exo_quelle_heure.genruntimeconfig.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_quelle_heure\obj\Debug\net8.0\ref\exo_quelle_heure.dll

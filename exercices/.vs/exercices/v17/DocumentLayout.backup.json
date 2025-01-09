@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\",
+  "WorkspaceRootPath": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88072513-3860-4A57-9FF9-FCCF2F8E5652}|exo_32\\exo_32.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetsc#\\exercices\\exo_32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EDC0C55-6A38-44DB-BE61-45D41E72F782}|exo_tuples\\exo_tuples.csproj|d:\\visual studio\\projets\\projets perso\\projetexoscsharp\\exercices\\exo_tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDC0C55-6A38-44DB-BE61-45D41E72F782}|exo_tuples\\exo_tuples.csproj|solutionrelative:exo_tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE1879E-C7B5-4514-9D76-43B8E54F30BE}|exo_adn\\exo_adn.csproj|d:\\visual studio\\projets\\projets perso\\projetexoscsharp\\exercices\\exo_adn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE1879E-C7B5-4514-9D76-43B8E54F30BE}|exo_adn\\exo_adn.csproj|solutionrelative:exo_adn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88072513-3860-4A57-9FF9-FCCF2F8E5652}|exo_32\\exo_32.csproj|d:\\visual studio\\projets\\projets perso\\projetexoscsharp\\exercices\\exo_32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88072513-3860-4A57-9FF9-FCCF2F8E5652}|exo_32\\exo_32.csproj|solutionrelative:exo_32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{737D97F1-C2BC-4CF0-97D3-3BF50BA5E0E5}|exo_30\\exo_30.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetsc#\\exercices\\exo_30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{737D97F1-C2BC-4CF0-97D3-3BF50BA5E0E5}|exo_30\\exo_30.csproj|solutionrelative:exo_30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3ADDFB-CAA4-454F-9ACC-ABB8FEDBED03}|exo_31\\exo_31.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetsc#\\exercices\\exo_31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3ADDFB-CAA4-454F-9ACC-ABB8FEDBED03}|exo_31\\exo_31.csproj|solutionrelative:exo_31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1EFFA26-2B74-4C84-9630-0ECE7E4E4234}|exo_28\\exo_28.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetsc#\\exercices\\exo_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EFFA26-2B74-4C84-9630-0ECE7E4E4234}|exo_28\\exo_28.csproj|solutionrelative:exo_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -112,52 +108,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo_32\\Program.cs",
-              "RelativeDocumentMoniker": "exo_32\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo_32\\Program.cs",
-              "RelativeToolTip": "exo_32\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo_tuples\\Program.cs",
+              "RelativeDocumentMoniker": "exo_tuples\\Program.cs",
+              "ToolTip": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo_tuples\\Program.cs",
+              "RelativeToolTip": "exo_tuples\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:17:42.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo_31\\Program.cs",
-              "RelativeDocumentMoniker": "exo_31\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo_31\\Program.cs",
-              "RelativeToolTip": "exo_31\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T10:06:04.349Z",
+              "WhenOpened": "2025-01-09T12:25:59.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo_30\\Program.cs",
-              "RelativeDocumentMoniker": "exo_30\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo_30\\Program.cs",
-              "RelativeToolTip": "exo_30\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo_adn\\Program.cs",
+              "RelativeDocumentMoniker": "exo_adn\\Program.cs",
+              "ToolTip": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo_adn\\Program.cs",
+              "RelativeToolTip": "exo_adn\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwC4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T09:56:35.689Z",
+              "WhenOpened": "2025-01-09T10:23:02.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo_28\\Program.cs",
-              "RelativeDocumentMoniker": "exo_28\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetsC#\\exercices\\exo_28\\Program.cs",
-              "RelativeToolTip": "exo_28\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo_32\\Program.cs",
+              "RelativeDocumentMoniker": "exo_32\\Program.cs",
+              "ToolTip": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\exercices\\exo_32\\Program.cs",
+              "RelativeToolTip": "exo_32\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T08:39:42.256Z",
+              "WhenOpened": "2025-01-09T10:05:39.225Z",
               "EditorCaption": ""
             }
           ]

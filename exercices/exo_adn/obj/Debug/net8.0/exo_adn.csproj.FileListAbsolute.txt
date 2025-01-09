@@ -1,0 +1,15 @@
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\bin\Debug\net8.0\exo_adn.exe
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\bin\Debug\net8.0\exo_adn.deps.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\bin\Debug\net8.0\exo_adn.runtimeconfig.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\bin\Debug\net8.0\exo_adn.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\exo_adn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\exo_adn.AssemblyInfoInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\exo_adn.AssemblyInfo.cs
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\exo_adn.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\exo_adn.sourcelink.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\exo_adn.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\refint\exo_adn.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\exo_adn.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\exo_adn.genruntimeconfig.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\obj\Debug\net8.0\ref\exo_adn.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_adn\bin\Debug\net8.0\exo_adn.pdb

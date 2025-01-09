@@ -1,0 +1,15 @@
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\bin\Debug\net8.0\exo_nom_complet.exe
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\bin\Debug\net8.0\exo_nom_complet.deps.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\bin\Debug\net8.0\exo_nom_complet.runtimeconfig.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\bin\Debug\net8.0\exo_nom_complet.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\bin\Debug\net8.0\exo_nom_complet.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\exo_nom_complet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\exo_nom_complet.AssemblyInfoInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\exo_nom_complet.AssemblyInfo.cs
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\exo_nom_complet.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\exo_nom_complet.sourcelink.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\exo_nom_complet.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\refint\exo_nom_complet.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\exo_nom_complet.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\exo_nom_complet.genruntimeconfig.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\exercices\exo_nom_complet\obj\Debug\net8.0\ref\exo_nom_complet.dll

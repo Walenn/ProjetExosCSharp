@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exo_quelle_heure/1.0.0": {
+        "runtime": {
+          "exo_quelle_heure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exo_quelle_heure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

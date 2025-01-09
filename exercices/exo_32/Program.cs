@@ -1,12 +1,12 @@
 ﻿
 
 // ***********************************
-// Variables locales
+// Variables globales
 // ***********************************
 Random monRandom = new Random();
 
-String[] tabParticipants = {
-        "Matteo" ,
+List<string> tabParticipants = 
+    ["Matteo" ,
         "Mathieu" ,
         "Leslie" ,
         "Gaelle" ,
@@ -15,13 +15,12 @@ String[] tabParticipants = {
         "Valentin" ,
         "Jamel" ,
         "Melvin",
-        "Madhi",
-        "Rémi:)"
-        };
+        "Medhi",
+        "Rémi :)"
+        ];
 
-String[] tabGagnants = new string[0];
+List<string> tabGagnants = new List<string>();
 
-int nbAAjouter;
 int saisieUserMenu = 0;
 int numeroTire = 12;
 
@@ -74,26 +73,33 @@ while (true);
 
 
 // *******************************************************
-// fonctions locales
+// fonctions globales
 // *******************************************************
 
 void tirerGagnant()
 {
-    String gagnant = "";
-
-    numeroTire = monRandom.Next(0, tabParticipants.Length + 1);
-
-    Console.WriteLine(numeroTire);
-
-
     Console.Clear();
-    Console.ForegroundColor = ConsoleColor.Cyan;
-    Console.WriteLine(
-$@"***************************************
-***** L'heureu.x.se gagnant.e est: {gagnant} *****
-**************************************");
-    Console.ForegroundColor = ConsoleColor.White;
-    Console.WriteLine("\n\n");
+    if (tabParticipants.Count > 0)
+    {
+
+        numeroTire = monRandom.Next(0, tabParticipants.Count);
+
+
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine(
+$@"*************************************************
+***** L'heureu.x.se gagnant.e est: {tabParticipants[numeroTire]} *****
+************************************************");
+        Console.ForegroundColor = ConsoleColor.White;
+        Console.WriteLine("\n\n");
+
+        // Ajout du gagnant dans le tableau des précédents gagnants
+        tabGagnants.Add(tabParticipants[numeroTire]);
+
+        // Retrait du gagnant du tableau des participants
+        tabParticipants.Remove(tabParticipants[numeroTire]);
+
+    }
 }
 
 // *******************************************************
@@ -114,7 +120,7 @@ void listerGagnants()
         if (gagnants != "")
         {
             Console.WriteLine(espace + gagnants);
-            espace += " ";
+            espace += "  ";
         }
     }
     Console.WriteLine("\n\n");
@@ -139,7 +145,7 @@ void listerParticipants()
         if (participant != "")
         {
             Console.WriteLine(espace + participant);
-            espace += " ";
+            espace += "  ";
         }
     }
     Console.WriteLine("\n\n");
