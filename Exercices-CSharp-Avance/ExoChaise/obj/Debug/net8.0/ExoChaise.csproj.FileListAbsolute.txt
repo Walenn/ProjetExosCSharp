@@ -1,0 +1,15 @@
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\bin\Debug\net8.0\ExoChaise.exe
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\bin\Debug\net8.0\ExoChaise.deps.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\bin\Debug\net8.0\ExoChaise.runtimeconfig.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\bin\Debug\net8.0\ExoChaise.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\bin\Debug\net8.0\ExoChaise.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\ExoChaise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\ExoChaise.AssemblyInfoInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\ExoChaise.AssemblyInfo.cs
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\ExoChaise.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\ExoChaise.sourcelink.json
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\ExoChaise.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\refint\ExoChaise.dll
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\ExoChaise.pdb
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\ExoChaise.genruntimeconfig.cache
+D:\Visual Studio\PROJETS\Projets perso\ProjetExosCSharp\Exercices-CSharp-Avance\ExoChaise\obj\Debug\net8.0\ref\ExoChaise.dll

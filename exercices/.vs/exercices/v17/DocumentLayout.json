@@ -114,7 +114,8 @@
               "RelativeToolTip": "exo_tuples\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T12:25:59.249Z"
+              "WhenOpened": "2025-01-09T12:25:59.249Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -139,7 +140,8 @@
               "RelativeToolTip": "exo_32\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T10:05:39.225Z"
+              "WhenOpened": "2025-01-09T10:05:39.225Z",
+              "EditorCaption": ""
             }
           ]
         }
