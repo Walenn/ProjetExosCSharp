@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\bin\Debug\net8.0\Exo8_LINQ.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\bin\Debug\net8.0\Exo8_LINQ.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\bin\Debug\net8.0\Exo8_LINQ.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\bin\Debug\net8.0\Exo8_LINQ.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\bin\Debug\net8.0\Exo8_LINQ.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\Exo8_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\Exo8_LINQ.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\Exo8_LINQ.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\Exo8_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\Exo8_LINQ.sourcelink.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\Exo8_LINQ.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\refint\Exo8_LINQ.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\Exo8_LINQ.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\Exo8_LINQ.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_LINQ\obj\Debug\net8.0\ref\Exo8_LINQ.dll

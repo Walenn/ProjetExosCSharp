@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1D5A217-2BF7-4ED7-AFBF-423DB9E3CB61}|DemoDelegates\\DemoDelegates.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\demodelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1D5A217-2BF7-4ED7-AFBF-423DB9E3CB61}|DemoDelegates\\DemoDelegates.csproj|solutionrelative:demodelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92F549D8-1D6C-44C3-8018-79C75E286B32}|Exo_LINQ\\Exo8_LINQ.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\exo_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F549D8-1D6C-44C3-8018-79C75E286B32}|Exo_LINQ\\Exo8_LINQ.csproj|solutionrelative:exo_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F549D8-1D6C-44C3-8018-79C75E286B32}|Exo_LINQ\\Exo8_LINQ.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\exo_linq\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F549D8-1D6C-44C3-8018-79C75E286B32}|Exo_LINQ\\Exo8_LINQ.csproj|solutionrelative:exo_linq\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,15 +102,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo_LINQ\\Personne.cs",
+              "RelativeDocumentMoniker": "Exo_LINQ\\Personne.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo_LINQ\\Personne.cs",
+              "RelativeToolTip": "Exo_LINQ\\Personne.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAqwJoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:42:41.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\DemoDelegates\\Program.cs",
-              "RelativeDocumentMoniker": "DemoDelegates\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\DemoDelegates\\Program.cs",
-              "RelativeToolTip": "DemoDelegates\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Exo_LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo_LINQ\\Program.cs",
+              "RelativeToolTip": "Exo_LINQ\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T10:50:39.121Z",
+              "WhenOpened": "2025-01-22T13:28:21.471Z",
               "EditorCaption": ""
             }
           ]
