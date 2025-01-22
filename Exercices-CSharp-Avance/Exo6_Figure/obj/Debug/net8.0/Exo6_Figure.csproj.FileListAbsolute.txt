@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\Exo6_Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\Exo6_Figure.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\Exo6_Figure.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\Exo6_Figure.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\Exo6_Figure.sourcelink.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\bin\Debug\net8.0\Exo6_Figure.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\bin\Debug\net8.0\Exo6_Figure.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\bin\Debug\net8.0\Exo6_Figure.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\bin\Debug\net8.0\Exo6_Figure.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\bin\Debug\net8.0\Exo6_Figure.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\Exo6_Figure.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\refint\Exo6_Figure.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\Exo6_Figure.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\Exo6_Figure.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo6_Figure\obj\Debug\net8.0\ref\Exo6_Figure.dll

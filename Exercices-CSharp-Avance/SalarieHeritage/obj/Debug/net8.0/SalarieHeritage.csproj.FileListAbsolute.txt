@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\bin\Debug\net8.0\SalarieHeritage.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\bin\Debug\net8.0\SalarieHeritage.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\bin\Debug\net8.0\SalarieHeritage.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\bin\Debug\net8.0\SalarieHeritage.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\bin\Debug\net8.0\SalarieHeritage.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\SalarieHeritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\SalarieHeritage.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\SalarieHeritage.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\SalarieHeritage.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\SalarieHeritage.sourcelink.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\SalarieHeritage.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\refint\SalarieHeritage.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\SalarieHeritage.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\SalarieHeritage.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\SalarieHeritage\obj\Debug\net8.0\ref\SalarieHeritage.dll

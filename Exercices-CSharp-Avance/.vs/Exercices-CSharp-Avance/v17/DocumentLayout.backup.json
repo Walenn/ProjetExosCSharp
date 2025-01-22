@@ -1,14 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\Exercices-CSharp-Avance\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF01AC54-0093-43BB-A40D-C80258E56494}|Citernes\\Citernes.csproj|d:\\visual studio\\projets\\projets perso\\projetexoscsharp\\exercices-csharp-avance\\citernes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF01AC54-0093-43BB-A40D-C80258E56494}|Citernes\\Citernes.csproj|solutionrelative:citernes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C527C1A7-B972-406C-8929-E4B5EBAC7151}|LaPile\\LaPile.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\lapile\\classes\\pile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C527C1A7-B972-406C-8929-E4B5EBAC7151}|LaPile\\LaPile.csproj|solutionrelative:lapile\\classes\\pile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF01AC54-0093-43BB-A40D-C80258E56494}|Citernes\\Citernes.csproj|d:\\visual studio\\projets\\projets perso\\projetexoscsharp\\exercices-csharp-avance\\citernes\\classes\\citerne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF01AC54-0093-43BB-A40D-C80258E56494}|Citernes\\Citernes.csproj|solutionrelative:citernes\\classes\\citerne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C527C1A7-B972-406C-8929-E4B5EBAC7151}|LaPile\\LaPile.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\lapile\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C527C1A7-B972-406C-8929-E4B5EBAC7151}|LaPile\\LaPile.csproj|solutionrelative:lapile\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C527C1A7-B972-406C-8929-E4B5EBAC7151}|LaPile\\LaPile.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\lapile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C527C1A7-B972-406C-8929-E4B5EBAC7151}|LaPile\\LaPile.csproj|solutionrelative:lapile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\compteenbanque\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|solutionrelative:compteenbanque\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\compteenbanque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|solutionrelative:compteenbanque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\compteenbanque\\classes\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|solutionrelative:compteenbanque\\classes\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\compteenbanque\\classes\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|solutionrelative:compteenbanque\\classes\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\compteenbanque\\classes\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|solutionrelative:compteenbanque\\classes\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\compteenbanque\\classes\\comptepayant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CCEC09-66D2-4750-A812-962D39956FDF}|CompteEnBanque\\Exo7_CompteEnBanque.csproj|solutionrelative:compteenbanque\\classes\\comptepayant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F848D-5BB9-4D37-9494-A5F2CCF529BA}|Exo6_Figure\\Exo6_Figure.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\exo6_figure\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611F848D-5BB9-4D37-9494-A5F2CCF529BA}|Exo6_Figure\\Exo6_Figure.csproj|solutionrelative:exo6_figure\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F848D-5BB9-4D37-9494-A5F2CCF529BA}|Exo6_Figure\\Exo6_Figure.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\exo6_figure\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611F848D-5BB9-4D37-9494-A5F2CCF529BA}|Exo6_Figure\\Exo6_Figure.csproj|solutionrelative:exo6_figure\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F848D-5BB9-4D37-9494-A5F2CCF529BA}|Exo6_Figure\\Exo6_Figure.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\exo6_figure\\interfaces\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611F848D-5BB9-4D37-9494-A5F2CCF529BA}|Exo6_Figure\\Exo6_Figure.csproj|solutionrelative:exo6_figure\\interfaces\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553BF5B7-9028-484D-A4AC-014A0B6AADD0}|SalarieHeritage\\SalarieHeritage.csproj|c:\\users\\administrateur\\documents\\dossiertravail\\projetexoscsharp\\exercices-csharp-avance\\salarieheritage\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553BF5B7-9028-484D-A4AC-014A0B6AADD0}|SalarieHeritage\\SalarieHeritage.csproj|solutionrelative:salarieheritage\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,36 +138,179 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Citerne.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Citernes\\Classes\\Citerne.cs",
-              "RelativeDocumentMoniker": "Citernes\\Classes\\Citerne.cs",
-              "ToolTip": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Citernes\\Classes\\Citerne.cs",
-              "RelativeToolTip": "Citernes\\Classes\\Citerne.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Title": "IHM.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\LaPile\\Classes\\IHM.cs",
+              "RelativeDocumentMoniker": "LaPile\\Classes\\IHM.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\LaPile\\Classes\\IHM.cs",
+              "RelativeToolTip": "LaPile\\Classes\\IHM.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T14:25:28.337Z",
+              "WhenOpened": "2025-01-21T13:49:16.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Citernes\\Program.cs",
-              "RelativeDocumentMoniker": "Citernes\\Program.cs",
-              "ToolTip": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Citernes\\Program.cs",
-              "RelativeToolTip": "Citernes\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Title": "Pile.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\LaPile\\Classes\\Pile.cs",
+              "RelativeDocumentMoniker": "LaPile\\Classes\\Pile.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\LaPile\\Classes\\Pile.cs",
+              "RelativeToolTip": "LaPile\\Classes\\Pile.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T14:25:04.545Z",
+              "WhenOpened": "2025-01-21T10:56:50.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\LaPile\\Program.cs",
+              "RelativeDocumentMoniker": "LaPile\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\LaPile\\Program.cs",
+              "RelativeToolTip": "LaPile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:56:24.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\Client.cs",
+              "RelativeDocumentMoniker": "CompteEnBanque\\Classes\\Client.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\Client.cs",
+              "RelativeToolTip": "CompteEnBanque\\Classes\\Client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:49:17.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompteCourant.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\CompteCourant.cs",
+              "RelativeDocumentMoniker": "CompteEnBanque\\Classes\\CompteCourant.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\CompteCourant.cs",
+              "RelativeToolTip": "CompteEnBanque\\Classes\\CompteCourant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:46:16.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompteEpargne.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\CompteEpargne.cs",
+              "RelativeDocumentMoniker": "CompteEnBanque\\Classes\\CompteEpargne.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\CompteEpargne.cs",
+              "RelativeToolTip": "CompteEnBanque\\Classes\\CompteEpargne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:46:07.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComptePayant.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\ComptePayant.cs",
+              "RelativeDocumentMoniker": "CompteEnBanque\\Classes\\ComptePayant.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\ComptePayant.cs",
+              "RelativeToolTip": "CompteEnBanque\\Classes\\ComptePayant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:45:54.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompteBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\CompteBancaire.cs",
+              "RelativeDocumentMoniker": "CompteEnBanque\\Classes\\CompteBancaire.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Classes\\CompteBancaire.cs",
+              "RelativeToolTip": "CompteEnBanque\\Classes\\CompteBancaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:45:43.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Program.cs",
+              "RelativeDocumentMoniker": "CompteEnBanque\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\CompteEnBanque\\Program.cs",
+              "RelativeToolTip": "CompteEnBanque\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:40:00.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo6_Figure\\Classes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Exo6_Figure\\Classes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo6_Figure\\Classes\\Rectangle.cs",
+              "RelativeToolTip": "Exo6_Figure\\Classes\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:27:32.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IHM.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo6_Figure\\Interfaces\\IHM.cs",
+              "RelativeDocumentMoniker": "Exo6_Figure\\Interfaces\\IHM.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo6_Figure\\Interfaces\\IHM.cs",
+              "RelativeToolTip": "Exo6_Figure\\Interfaces\\IHM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:04:01.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo6_Figure\\Classes\\Point.cs",
+              "RelativeDocumentMoniker": "Exo6_Figure\\Classes\\Point.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\Exo6_Figure\\Classes\\Point.cs",
+              "RelativeToolTip": "Exo6_Figure\\Classes\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:41:05.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IHM.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\SalarieHeritage\\IHM.cs",
+              "RelativeDocumentMoniker": "SalarieHeritage\\IHM.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\SalarieHeritage\\IHM.cs",
+              "RelativeToolTip": "SalarieHeritage\\IHM.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAwLAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:13:06.888Z",
               "EditorCaption": ""
             }
           ]

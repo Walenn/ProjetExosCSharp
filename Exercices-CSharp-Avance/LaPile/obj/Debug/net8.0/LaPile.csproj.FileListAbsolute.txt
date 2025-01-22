@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\bin\Debug\net8.0\LaPile.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\bin\Debug\net8.0\LaPile.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\bin\Debug\net8.0\LaPile.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\bin\Debug\net8.0\LaPile.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\bin\Debug\net8.0\LaPile.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\LaPile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\LaPile.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\LaPile.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\LaPile.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\LaPile.sourcelink.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\LaPile.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\refint\LaPile.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\LaPile.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\LaPile.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\LaPile\obj\Debug\net8.0\ref\LaPile.dll

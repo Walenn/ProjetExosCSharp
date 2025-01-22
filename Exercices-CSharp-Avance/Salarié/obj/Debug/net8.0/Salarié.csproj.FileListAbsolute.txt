@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\bin\Debug\net8.0\Salarié.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\bin\Debug\net8.0\Salarié.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\bin\Debug\net8.0\Salarié.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\bin\Debug\net8.0\Salarié.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\bin\Debug\net8.0\Salarié.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\Salarié.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\Salarié.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\Salarié.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\Salarié.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\Salarié.sourcelink.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\Salarié.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\refint\Salarié.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\Salarié.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\Salarié.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Salarié\obj\Debug\net8.0\ref\Salarié.dll

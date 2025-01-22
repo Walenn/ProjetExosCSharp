@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Remi\\.nuget\\packages\\": {},
-    "D:\\VisualStudio-Composants-Shared\\NuGetPackages": {}
+    "C:\\Users\\Administrateur\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\Exercices-CSharp-Avance\\ExoChaise\\ExoChaise.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\ExoChaise\\ExoChaise.csproj",
       "projectName": "ExoChaise",
-      "projectPath": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\Exercices-CSharp-Avance\\ExoChaise\\ExoChaise.csproj",
-      "packagesPath": "C:\\Users\\Remi\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio\\PROJETS\\Projets perso\\ProjetExosCSharp\\Exercices-CSharp-Avance\\ExoChaise\\obj\\",
+      "projectPath": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\ExoChaise\\ExoChaise.csproj",
+      "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrateur\\Documents\\DossierTravail\\ProjetExosCSharp\\Exercices-CSharp-Avance\\ExoChaise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\VisualStudio-Composants-Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Remi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

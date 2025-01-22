@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\Exo_Thermomètre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\Exo_Thermomètre.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\Exo_Thermomètre.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\Exo_Thermomètre.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\Exo_Thermomètre.sourcelink.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\bin\Debug\net8.0\Exo_Thermomètre.exe
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\bin\Debug\net8.0\Exo_Thermomètre.deps.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\bin\Debug\net8.0\Exo_Thermomètre.runtimeconfig.json
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\bin\Debug\net8.0\Exo_Thermomètre.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\bin\Debug\net8.0\Exo_Thermomètre.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\Exo_Thermomètre.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\refint\Exo_Thermomètre.dll
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\Exo_Thermomètre.pdb
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\Exo_Thermomètre.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\DossierTravail\ProjetExosCSharp\Exercices-CSharp-Avance\Exo_Thermomètre\obj\Debug\net8.0\ref\Exo_Thermomètre.dll
